@@ -1,1 +1,3 @@
-this is a text
+Buen día mi nombre es Jorge y tengo 27 años
+El motivo de este documento es estudiar el comportamiento de git
+para poder manipularlo de manera más eficiente.
