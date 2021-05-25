@@ -1,0 +1,6 @@
+Planboard.pem
+Planboard.pem:Zone.Identifier
+archivo
+error
+error.txt
+proyecto

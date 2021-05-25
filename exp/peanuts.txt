@@ -1,0 +1,4 @@
+banana.txt
+cat
+dq
+peanuts.txt
